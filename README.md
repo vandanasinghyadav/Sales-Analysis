@@ -1,4 +1,4 @@
-# Sales-Analysis :
+# Sales Analysis :
 This is a Python project developed in Jupyter Notebook that analyzes sales data to extract meaningful business insights. The goal is to help improve customer experience and optimize sales performance using data-driven decisions.
 
 🎯 Objective :
