@@ -1,8 +1,9 @@
 # Sales-Analysis :
-- This is a Python project developed in Jupyter Notebook that analyzes sales data to extract meaningful business insights. The goal is to help improve customer experience and optimize sales performance using data-driven decisions.
+This is a Python project developed in Jupyter Notebook that analyzes sales data to extract meaningful business insights. The goal is to help improve customer experience and optimize sales performance using data-driven decisions.
 
 🎯 Objective :
-- The main objective of this project is to perform exploratory data analysis (EDA) on sales data to:
+
+The main objective of this project is to perform exploratory data analysis (EDA) on sales data to:
 
 - Understand customer demographics and behavior
 
